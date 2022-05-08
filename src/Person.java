@@ -8,7 +8,7 @@ public class Person {
 
 
     // data type of height needs to be named
-    // to ensure the compiling of the program, a constructor is needed; void is not the correct syntax of a constructor
+    // to ensure compiling of the program, a constructor is needed; void is not the correct syntax of a constructor
     public Person(String name, int age, int height) {
         this.name = name;
         this.age = age;
